@@ -1,0 +1,16 @@
+{
+  "name": "rct-stripe-demo",
+  "version": "1.0.0",
+  "description": "stripe demo in react and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ghada Ali Adam",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^6.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
